@@ -1,0 +1,254 @@
+{
+  "kategoriler": [
+    {
+      "id": 1,
+      "ad": "Komedi"
+    },
+    {
+      "id": 2,
+      "ad": "Bilim Kurgu"
+    },
+    {
+      "id": 3,
+      "ad": "Polisiye"
+    },
+    {
+      "id": 4,
+      "ad": "Tarih"
+    },
+    {
+      "id": 5,
+      "ad": "Aksiyon"
+    },
+    {
+      "id": 6,
+      "ad": "Animasyon"
+    },
+    {
+      "id": 7,
+      "ad": "Müzikal"
+    },
+    {
+      "id": 8,
+      "ad": "Dram"
+    }
+  ],
+  "filmler": [
+    {
+      "id": 1,
+      "kategoriId": [1, 7, 8],
+      "ismi": "Lemonade Mouth",
+      "aciklama": "Film, ilk bakişta son dereel gelişim süreçlerini ve yeteneklerinin farkina varmalarini sicak bir dil ile anlatan bir yapit. Ayni zamanda, her bireyin kendine özgü bir yeteneği olduğunu ve bu yeteneklerin keşfedilmesi ve kullanilmasi durumunda neler başarabileceğini gösteriyor. Birbirinden farkli beş karakterin, müziğin etkileyici gücü sayesinde bir araya gelip, tarihin en iyi lise grubunu oluşturduklari bu hikaye, izleyenlere keyifli bir deneyim sunuyor.",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/e6caac600a67b03a8d8840931c4b8be1.webp",
+      "favoriSayisi": 35,
+      "oyuncular": [
+        "Adam Hicks",
+        "Bridgit Mendler",
+        "Hayley Kiyoko",
+        "Naomi Scott"
+      ]
+    },
+    {
+      "id": 2,
+      "kategoriId": 1,
+      "ismi": "Quiz Lady",
+      "aciklama": " Bahsi geçen film, oyu heyecan, hüzün, eğlence ve duygusal derinlikleri bir arada bulacaksiniz. İki kiz kardeşin annelerinin borçlarina çözüm arayişlarini, bu süreçte birbirlerine olan yakinlaşmalarini ve kendi hayatlarinin da değişimini gözler önüne seren bu film, sinema severler için kaçirilmamasi gereken bir seçenek olacaktir.",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/quiz-lady-9461.webp",
+      "favoriSayisi": 40,
+      "oyuncular": ["Awkwafina", "Holland Taylor", "Sandra Oh", "Will Ferrell"]
+    },
+    {
+      "id": 3,
+      "kategoriId": 5,
+      "ismi": "Shang-Chi and the Legend of the Ten Rings",
+      "aciklama": "Shang-Chi and thiki bu tehlikeli görevde babasina uzun zamandir düşman olan kişileri kendine dost belleyecek ve bu tehlikeli yolda kendisine benzeyen birçok süper güçlere sahip kişilerle tanişip arkadaş olacaktir. Shang Chi babasina karşi gelmeye hangi noktada karar vermiştir? Shang Chi bu tehlikeli kararin ardinda durabilecek güce sahip midir? Bu macerada babasi hakkinda hangi bilmediği gerçekleri öğrenecektir? Ona bu yolda yardim etmek isteyenler olduğu kadar, onun yolunu kesmek isteyenler de olacak midir? Shang Chi bu yolculuğunda ailesi hakkinda hangi sirlari öğrenecektir? Her şeyden daha da önemlisi Shang Chi bu tehlikeli ve kaçinilmaz karşilaşmadan sağ çikabilecek midir? ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/shang-chi-ve-on-halka-efsanesi-65118.webp",
+      "favoriSayisi": 90,
+      "oyuncular": [
+        "Awkwafina",
+        "Ben Kingsley",
+        "Menger Zhang",
+        "Simu Liu",
+        "Tony Chiu-Wai Leung"
+      ]
+    },
+    {
+      "id": 4,
+      "kategoriId": 1,
+      "ismi": "No Hard Feelings",
+      "aciklama": "Büyü de Gel, baş kair komedi filmi olmaktan çok daha fazlasini sunuyor ve izleyene unutulmaz bir sinema deneyimi yaşatiyor. Hayatin içinden alinmiş hikayesi, benzersiz karakterleri ve başarili oyunculuklari ile Büyü de Gel, izlemekten keyif alacağiniz bir film. Eğer siz de aksiyon ve komediyi bir arada sevenlerdenseniz, bu film tam size göre. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/buyu-de-gel-39310.webp",
+      "favoriSayisi": 32,
+      "oyuncular": [
+        "Andrew Barth Feldman",
+        "Jennifer Lawrence",
+        "Laura Benanti",
+        "Matthew Broderick"
+      ]
+    },
+    {
+      "id": 5,
+      "kategoriId": [2, 5, 8],
+      "ismi": "The Hunger Games",
+      "aciklama": "Bir zamanlar Kuzey Amerika olarak bilinen bir yerin yikintilari içerisinde Panem ulusu yaşamaktadir.Başkent Capitolün etrafinda 12 bölge (mintika) bulunmaktadir. Capitol şiddetli ve acimasizdir ve mintikalar bir hat boyunca siralanmiştir. Onlarin her biri her yil yapilan Açlik oyunlarina katilmak zorundadir. Açlik oyunlarinin yapilma amaci, geçmişte yaşanan Karanlik Günlerde Capitole karşi düzenlenen ayaklanmalardir. Capitol, her sene Açlik Oyunlari ile otoritesini tüm mintikalara göstermekte, güç gösterisi yapmaktadir. Yarişma için her bir bölgeden yaşlari 12 ila 18 arasinda değişen birer erkek ve bir kiz çocuğu göndermek durumundadir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-aclik-oyunlari-the-hunger-games.webp",
+      "favoriSayisi": 70,
+      "oyuncular": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Stanley Tucci"
+      ]
+    },
+    {
+      "id": 6,
+      "kategoriId": [5, 6],
+      "ismi": "Spider-Man: Across the Spider-Verse",
+      "aciklama": "Spider-Man:iğer büyük süper kahramanlarin yani sira farkli Spider-Man versiyonlariyla da karşilaşir. Onlarla bir araya gelirken, farkli evrenlerde yaşayan bu kahramanlar arasindaki benzerlikleri ve farkliliklari keşfeder. Bu, Milesin kendini daha da geliştirmesi ve gerçek potansiyelini ortaya çikarmasi için büyük bir firsat sunar. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/orumcek-adam-orumcek-evrenine-gecis-izle-8-77240.webp",
+      "favoriSayisi": 120,
+      "oyuncular": [
+        "Brian Tyree Henry",
+        "Hailee Steinfeld",
+        "Luna Lauren Velez",
+        "Shameik Moore"
+      ]
+    },
+    {
+      "id": 7,
+      "kategoriId": [1, 6, 7],
+      "ismi": "Sing",
+      "aciklama": "İnsanlarin yaşadiği bir dünya gibi tamamen hayvanlarin yaşadini hayal edebiliyormusunuz işte şarkini söyle animasyonu tamda bunlarin gerçekleştiği bir film . Ayrica not olarak belirtmek istiyorum şarkini söyle animasyon filmini bildiğimiz minyonlarin yapimcilarinin yaptiğini grafiklerinin oldukça kaliteli olduğunu. Hemen hemen akliniza gelebilecek tüm hayvanlarin macera dolu anlari sizlerle. Şarkini Söyle - Sing 2016 animasyon izle ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-sarkini-soyle-sing.webp",
+      "favoriSayisi": 20,
+      "oyuncular": [
+        "Matthew McConaughey",
+        "Reese Witherspoon",
+        "Scarlett Johansson",
+        "Seth MacFarlane"
+      ]
+    },
+    {
+      "id": 8,
+      "kategoriId": [1, 6],
+      "ismi": "The Super Mario Bros. Movie",
+      "aciklama": "Brooklyndeki tesiheyecan verici bir yolculuğa çikarirken, ayni zamanda kardeşlik, cesaret ve inanç gibi değerleri ön plana çikarmaktadir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/super-mario-kadesler-izle-3-38239.webp",
+      "favoriSayisi": 65,
+      "oyuncular": [
+        "Anya Taylor-Joy",
+        "Charlie Day",
+        "Chris Pratt",
+        "Jack Black",
+        "Kevin Michael Richardson"
+      ]
+    },
+    {
+      "id": 9,
+      "kategoriId": [4, 8, 5],
+      "ismi": "The Magnificent Seven",
+      "aciklama": " Muhteşem Yedili filmi aksiyon macera ve western türünde bir filmdir. Bartholow Bogue sanayi işi ile uğraşmaktadir ve yaşadiği kasabayida o yönetmektedir. Kasabayi yağmalamak isteyen insanlardan kasabayi korumak için yine ayni şekilde yedi kanun kaçaği ile anlaşma yapacaklardir. Kimisi ödül avcisi kimisi kiralik katil . Muhteşem Yedili kasabayi para karşiliğinda korumak için gerekli çalişmalari kendince yaparlar gelecek olanlara hazir olarak beklerler. Fakat Muhteşem Yedili bu işi paranin dişinda amaçlar için yaptiğininda sonradan farkina varacaktir. Muhteşem Yedili - The Magnificent Seven 2016 filmi türkçe altyazili versiyonu olarak sitemizde yayinlanmiştir tabiki ilerleyen zamanlarda türkçe dublaj olarakda izleyebileceksiniz",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-muhtesem-yedili-the-magnificent-seven.webp",
+      "favoriSayisi": 37,
+      "oyuncular": [
+        "Chris Pratt",
+        "Denzel Washington",
+        "Ethan Hawke",
+        "Vincent DOnofrio"
+      ]
+    },
+    {
+      "id": 10,
+      "kategoriId": [2, 5],
+      "ismi": "Lucy",
+      "aciklama": " Hemen hemen her ülkede uyuşturucu baronlari vardir ve satin alamayacaği polis yoktur.  Tayvanin başkenti olan Taipe şehrininde büyük uyuşturucu baronlari istediği polisi para gücü ile satin aliyor Lucy adinda bir kadin ve bunun gibi olan insanlari bu ticareti yapmaya zorluyor. Lucy vücudunun içine gizlenmiş olan uyuşturuculari taşidiği sirada yakalanacak ve darp edilecektir. Aldiği darbeler sonucu uyuşturucu paketi karninda yirtilacak ve kanina karişacaktir. O uyuşturucu Lucynin beynini %100 kullanmasina olanak sağlayacaktir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-lucy-filmi-full-izle-hd.webp",
+      "favoriSayisi": 80,
+      "oyuncular": [
+        "Amr Waked",
+        "Min-sik Choi",
+        "Morgan Freeman",
+        "Scarlett Johansson"
+      ]
+    },
+    {
+      "id": 11,
+      "kategoriId": [3, 8],
+      "ismi": "Seven Deadly Sins",
+      "aciklama": "Harper Grace (Dreama Walker) lisenin popüler kizidir. Okulun yeni öğrencisi Kaianin (Rachel Melvin) kasabaya gelişiyle Harperin yildizi sönmeye başlar. Kaia, Harperin yakin arkadaşinin sevgilisi Adami (Jared Keeso) baştan çikarmakta gecikmez. Yakişikli Fransizca öğretmeni Jack Powellin (Eric Close) da peşinden koşmaktadir. Yedi ölümcül günah Harperin etrafini sarmalamaya başlar... ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/9bf716ea56b74842ec8f363d27db2f36.webp",
+      "favoriSayisi": 130,
+      "oyuncular": [
+        "Andrew Kevin Walker",
+        "Brad Pitt",
+        "Kevin Spacey",
+        "Morgan Freeman"
+      ]
+    },
+    {
+      "id": 12,
+      "kategoriId": [3, 5, 8],
+      "ismi": "Gone in Sixty Seconds",
+      "aciklama": "Memphis mükemmel bir araba hirsizidir. Alarmlar, kilitler artik onun için çocuk oyuncağidir. Çalmak istediği araç için 60 saniye yeterlidir. Filmin ismide oyuncunun bu yönünden gelmektedir. Memphis uzun süre önce suç işlerinden uzaklaşan biridir. Bu taki eski arkadaşinin beklenmeyen ziyaretinden öncesi için geçerlidir. Kardeşinin hayatini kurtarabilmesi için araba hirsizliğindan başka çaresi olmadiğinin farkindadir. Bütün herşey 1 günde 50 araba çalmaya kalmiştir. Memphis araçlara karşi ilgisi yüksek olan ve bir arabayi söküp tekrar yerine takmasini yapabilecek kadar bilgisi vardir. Fakat çalmayi başaramadiği bir araç çikacaktir.  ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-60-saniye-film-izle.webp",
+      "favoriSayisi": 25,
+      "oyuncular": [
+        "Angelina Jolie",
+        "Giovanni Ribisi",
+        "Nicolas Cage",
+        "T.J. Cross"
+      ]
+    },
+    {
+      "id": 13,
+      "kategoriId": [4, 8],
+      "ismi": "Oppenheimer",
+      "aciklama": "J. Robert Oppenhkina varir varmaz, kendi rolleri ve sorumluluklari hakkinda derin bir iç hesaplaşmaya girdi. Atom bombasinin icadi ve kullanilmasi konusunda büyük bir vicdani yük taşiyan Oppenheimer, zamanla pişmanlik ve üzüntü duydu. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-oppenheimer-izle.webp",
+      "favoriSayisi": 110,
+      "oyuncular": [
+        "Alden Ehrenreich",
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Robert Downey Jr."
+      ]
+    },
+    {
+      "id": 14,
+      "kategoriId": [7, 4, 8],
+      "ismi": "Les Miserables",
+      "aciklama": "Victor Hugonun ölümsüz yapiti ile ayni adi taşiyan ve ayni eserden sahneye uyarlanan üç Oscar ödülünün yaninda 83 film ödülünü de alip ayni zamanda da 175 film ödülü adayliği bulunan bu efsanevi filmde; Jean Valjean her ne kadar hapisten saliverilmiş olsa da her an ensesinde müfettiş Javertin nefesini duymaktadir. Ancak yeni ve özgür bir hayatin hayali ile tutuşan Jean asla yapmamasi gereken bir tehlikeyi göğüsler ve şartli tahliyeyi bozup yeni bir hayata doğru yol alir. Bu sirada zaten devrim sancilari çekmekte olan Fransa ünlü Haziran İsyani ve sonuçlari ile yüzleşmek üzeredir. Hikaye sadece mahkum değil ayni zamanda müfettiş ve zulüm gören halk arasindaki ince çizgiyi betimlemekte ve izleyiciye her iki tarafinda bakiş açisini net bir şekilde başari ile sunmaktadir. Zengin ve fakir halk arasindaki keskin ayrim, acima ve nefret, kaos ve şiddet ve tüm bu insani derin duygulara birebir tanik olacağiniz bu eserde herkese şimdiden iyi seyirler diliyoruz",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-sefiller-les-miserables.webp",
+      "favoriSayisi": 58,
+      "oyuncular": [
+        "Amanda Seyfried",
+        "Anne Hathaway",
+        "Hugh Jackman",
+        "Russell Crowe"
+      ]
+    },
+    {
+      "id": 15,
+      "kategoriId": 8,
+      "ismi": "Noah",
+      "aciklama": " Nuh büyük tufan filmi, bilindiği gibi incilde geçen nuhun gemisi hikayesinin beyaz perdeye aktarilmiş halidir. Kötülük dünyayi hakimiyetine almiştir, nuh a büyük bir görev verilir. Gelecek büyük sel felaketinden canlilari korumakla görevlidir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-nuh-buyuk-tufan-noah-film-izle.webp",
+      "favoriSayisi": 40,
+      "oyuncular": [
+        "Anthony Hopkins",
+        "Emma Watson",
+        "Jennifer Connelly",
+        "Russell Crowe"
+      ]
+    },
+    {
+      "id": 16,
+      "kategoriId": 7,
+      "ismi": "Beauty and the Beast",
+      "aciklama": "Hikayenin birinde  çrkin tarafindan yakalanmiş. Bindiği at ordan kaçarak güzel kizin yanina kadar gelecek sonra o güzel kiz şatoya babasini kurtarmaya gidecektir. Fakat çirkinin tek kurali vardir bir kişinin kalmasi gerekecektir kiz kendini feda edecek ve babasinin kurtulmasini sağlayacaktir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-nuh-buyuk-tufan-noah-film-izle.webp",
+      "favoriSayisi": 40,
+      "oyuncular": ["Dan Stevens", "Emma Watson", "Josh Gad", "Luke Evans"]
+    }
+  ]
+}

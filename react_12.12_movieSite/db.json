@@ -1,0 +1,469 @@
+{
+  "kategoriler": [
+    {
+      "id": 1,
+      "ad": "Komedi"
+    },
+    {
+      "id": 2,
+      "ad": "Bilim Kurgu"
+    },
+    {
+      "id": 3,
+      "ad": "Polisiye"
+    },
+    {
+      "id": 4,
+      "ad": "Tarih"
+    },
+    {
+      "id": 5,
+      "ad": "Aksiyon"
+    },
+    {
+      "id": 6,
+      "ad": "Animasyon"
+    },
+    {
+      "id": 7,
+      "ad": "Müzikal"
+    },
+    {
+      "id": 8,
+      "ad": "Dram"
+    }
+  ],
+  "oyuncular": [
+    {
+      "id": 1,
+      "ismi": "Bridgit Mendler",
+      "filmlerId": [1],
+      "dogum": "18 Aralık 1992",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6MhGY9I5QqyYuUGLZEeVY01X8iBs7g-KMS6NlkcfMGKQIc6J2",
+      "aciklama": "Bridgit Claire Mendler (18 Aralık 1992), Amerikan oyuncu, müzisyen, şarkıcı ve söz yazarı. Disney yapımı olan Good Luck Charlie adlı dizide Teddy Duncan rolünü oynamıştır (2014 Final). İlk çıkışını ise 2009 yapımı olan televizyon filmi Labor Pains ile sağlamıştır. Yine 2009'da, Mendler Disney yapımı Waverly Büyücüleri adlı dizide birkaç bölüm oynayacağı bir rol üstlendi. Aynı yıl Aralık ayında, gösterime 23 Aralık 2009 tarihinde girmiş olan Alvin and the Chipmunks: The Squeakuel filminde ilk kez tiyatral yeteneğini gösterme şansı buldu. 'Büyücüler'deki rolüyle ilgili aldığı pozitif tepkilerin üzerine, Mendler Disney'in 2010 yılının nisan ayında gösterime girmiş olan İyi Şanslar Charlie adlı yeni dizisinin başrolü oldu. 2011 yılında, Mendler İyi Şanslar Charlie Gezi Filmi (Good Luck Charlie, It's Christmas) ile yeniden oyunculuk kariyerinde bir çıkış yakaladı."
+    },
+    {
+      "id": 2,
+      "ismi": "Awkwafina",
+      "filmlerId": [2, 3],
+      "dogum": "2 Haziran 1988",
+      "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0S9eaXPr3G91_p6w1dv7bmHSaIhhbqyaDsZOLrqfNCZY6BX2H",
+      "aciklama": "Nora Lum (d. 2 Haziran 1988), ya da sahne adıyla Awkwafina Amerikalı oyuncu ve rapçidir.Lum New York'da doğdu. Çinli-Amerikalı babası Wally, ressam olan Güney Kore göçmeni bir annesi vardır. Forest Hills, Queens'da büyümüştür. Büyükbabası 1940'larda Flushing,Queens'de Kanton restoran açan bir Çinli göçmendir. Lum annesi öldüğünde dört yaşındaydı ve büyükannesi tarafından büyütüldü."
+    },
+    {
+      "id": 3,
+      "ismi": "Ben Kingsley",
+      "filmlerId": [3],
+      "dogum": "31 Aralık 1943",
+      "foto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9agwTE1_k9u1yl7fapNcPojNlOwpFS8GebWEmGqLkG6erKGNy",
+      "aciklama": "Sir Ben Kingsley (doğum adı Krishna Pandit Bhanji; d. 31 Aralık 1943), İngiliz oyuncudur. Beş onyıla yayılan kariyeri boyunca bir Akademi Ödülü, bir Britanya Akademisi Sinema Ödülü, bir Grammy Ödülü ve iki Altın Küre Ödülü de dahil olmak üzere çeşitli ödüller almıştır. Kingsley 2002 yılında İngiliz film endüstrisine hizmetlerinden dolayı Knight Bachelor olarak atandı. 2010 yılında Hollywood Walk of Fame'de bir yıldızla ödüllendirildi. 2013 yılında sinema sektörüne dünya çapındaki katkılarından ötürü Britannia Ödülü'nü aldı."
+    },
+    {
+      "id": 4,
+      "ismi": "Jennifer Lawrence",
+      "filmlerId": [4, 5],
+      "dogum": "15 Ağustos 1990",
+      "foto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXWKuj37PoXR2n0GqLM_ygXmWrJRvP7VzI6zoXcSuqadI0qACU",
+      "aciklama": "Jennifer Shrader Lawrence (d. 15 Ağustos 1990), Amerikalı oyuncudur. Yer aldığı filmler dünya genelinde 5.5 milyar dolardan fazla hasılat elde etti, 2015 ve 2016 yılları arasında dünyanın en çok maaş alan kadın oyuncusuydu. 2013 yılında Time dergisinin dünyanın en etkili 100 kişisi ve 2013'ten 2016'ya kadar Forbes Celebrity 100 listesinde yer aldı. Oscar, Altın Küre ve SAG ödüllerinin sahibidir."
+    },
+    {
+      "id": 5,
+      "ismi": "Shameik Moore",
+      "filmlerId": [6],
+      "dogum": "4 Mayıs 1995",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyMCWiXBhBnqFlVzBAgNfhCFNFGPFHeYuBAxbpe_9LA74E5Cz",
+      "aciklama": "Shameik Alti Moore (4 Mayıs 1995 doğumlu), Amerikalı aktör ve müzisyen. İlk başrolünü Dope (2015) filmiyle yaptı ve en çok Spider-Man: Into the Spider-Verse adlı animasyon filminde ve devam filmlerinde Miles Morales / Spider-Man'i seslendirmesiyle tanınır."
+    },
+    {
+      "id": 6,
+      "ismi": "Scarlett Johansson",
+      "filmlerId": [7, 10],
+      "dogum": "22 Kasım 1984",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k7WTbWsb6Kn6NRCuUHUsnA3eIaL0yxcwTYN6s0NU663-gvym",
+      "aciklama": "Scarlett Ingrid Johansson (d. 22 Kasım 1984, New York), BAFTA ödülü sahibi Amerikalı oyuncu. 1998 yılında oynadığı Atlara Fısıldayan Adam filmindeki rolü ile çıkış yaptı. Daha sonra Hayalet Dünyası (Ghost World), Bir Konuşabilse (Lost in Translation) ve İnci Küpeli Kız (Girl with a Pearl Earring) gibi filmlerde rol aldı. 2003 yılında iki Altın Küre adaylığı kazandı. Ayrıca 2020 yılında, Marriage Story filmindeki rolüyle en iyi kadın oyuncu Oscar adaylığı; Jojo Rabbit filmindeki rolüyle en iyi yardımcı kadın oyuncu Oscar adaylığı kazandı."
+    },
+    {
+      "id": 7,
+      "ismi": "Chris Pratt",
+      "filmlerId": [8, 9],
+      "dogum": "21 Haziran 1979",
+      "foto": "https://cdn.britannica.com/48/216648-050-4A42C937/American-actor-Chris-Pratt-2020.jpg",
+      "aciklama": "Christopher Michael 'Chris' Pratt (d. 21 Haziran 1979) Daha çok televizyon dizileri Parks and Recreation’daki Andy Dwyer ve Everwood’daki Harold Brighton 'Bright' Abbott rolleriyle bilinen Amerikalı dizi ve sinema oyuncusudur. Moneyball, Zero Dark Thirty, The Five-Year Engagement ve Delivery Man gibi sinema filmlerinde de rol almıştır."
+    },
+    {
+      "id": 8,
+      "ismi": "Morgan Freeman",
+      "filmlerId": [10, 11],
+      "dogum": "1 Haziran 1937",
+      "foto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSywMEfpJWqOAwy0t-ue5_fS4JPxLnXuifXx-CuYgH39q3B0Mdm",
+      "aciklama": "Morgan Freeman (d. 1 Haziran 1937), Amerikalı oyuncu, yapımcı ve seslendirme sanatçısı. Freeman, 2005 yılında Milyonluk Bebek filmiyle En İyi Yardımcı Erkek Oyuncu Akademi Ödülü'nü kazandı. Street Smart, Bayan Daisy'nin Şoförü, Esaretin Bedeli ve Yenilmez filmleriyle Akademi adaylığı elde etti. Freeman; kendine has, düzgün, derin sesiyle ve anlatımdaki becerisi ile tanınır."
+    },
+    {
+      "id": 9,
+      "ismi": "Emma Watson",
+      "filmlerId": [16, 15],
+      "dogum": "15 Nis 1990",
+      "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdR8EBtqfxKIj8-vazEROe6JEkpca-oJMaesCzmF3tni5KbwaW",
+      "aciklama": "Emma Charlotte Duerre Watson (d. 15 Nisan 1990, Paris) İngiliz oyuncu, model ve aktivisttir. Watson, Harry Potter film serisinde canlandırdığı Hermione Granger karakteriyle tanındı. Hermione olarak kadroya dahil olduğunda yalnızca dokuz yaşındaydı ve daha önce yalnızca okul gösterilerinde oynamıştı. 2001'den 2011'e kadar Daniel Radcliffe ve Rupert Grint'le beraber sekiz Harry Potter filminde rol aldı. Watson, Harry Potter serisindeki çalışmalarından çok sayıda ödül ve 10.000.000 sterlinin üzerinde para kazandı."
+    }
+  ],
+  "filmler": [
+    {
+      "id": 1,
+      "kategoriId": [1, 7, 8],
+      "ismi": "Lemonade Mouth",
+      "aciklama": "Film, ilk bakişta son dereel gelişim süreçlerini ve yeteneklerinin farkina varmalarini sicak bir dil ile anlatan bir yapit. Ayni zamanda, her bireyin kendine özgü bir yeteneği olduğunu ve bu yeteneklerin keşfedilmesi ve kullanilmasi durumunda neler başarabileceğini gösteriyor. Birbirinden farkli beş karakterin, müziğin etkileyici gücü sayesinde bir araya gelip, tarihin en iyi lise grubunu oluşturduklari bu hikaye, izleyenlere keyifli bir deneyim sunuyor.",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/e6caac600a67b03a8d8840931c4b8be1.webp",
+      "favoriSayisi": 35,
+      "tarih": 2011,
+      "yorum": [
+        "misafir: Etkileyici bir filmdi normalde müzikal sevmem ama bunu beğendim.",
+        "kullanıcı1: çok sıkıcıydı"
+      ],
+      "src": "https://www.youtube.com/embed/Ecn8dvDK7LQ",
+      "oyuncular": [
+        "Adam Hicks",
+        "Bridgit Mendler",
+        "Hayley Kiyoko",
+        "Naomi Scott"
+      ]
+    },
+    {
+      "id": 2,
+      "kategoriId": [1],
+      "ismi": "Quiz Lady",
+      "aciklama": " Bahsi geçen film, oyu heyecan, hüzün, eğlence ve duygusal derinlikleri bir arada bulacaksiniz. İki kiz kardeşin annelerinin borçlarina çözüm arayişlarini, bu süreçte birbirlerine olan yakinlaşmalarini ve kendi hayatlarinin da değişimini gözler önüne seren bu film, sinema severler için kaçirilmamasi gereken bir seçenek olacaktir.",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/quiz-lady-9461.webp",
+      "favoriSayisi": 40,
+      "tarih": 2023,
+      "yorum": [
+        "misafir:  bunu beğendim, ama yeni nesil filmlerde bişeyler eksik oluyor hep",
+        "kullanıcı1: çok komiktiii",
+        "misafirördek: bu ne böyle.."
+      ],
+      "src": "https://www.youtube.com/embed/4OzaexEqDa8",
+      "oyuncular": ["Awkwafina", "Holland Taylor", "Sandra Oh", "Will Ferrell"]
+    },
+    {
+      "id": 3,
+      "kategoriId": [5],
+      "ismi": "Shang-Chi and the Legend of the Ten Rings",
+      "aciklama": "Shang-Chi and thiki bu tehlikeli görevde babasina uzun zamandir düşman olan kişileri kendine dost belleyecek ve bu tehlikeli yolda kendisine benzeyen birçok süper güçlere sahip kişilerle tanişip arkadaş olacaktir. Shang Chi babasina karşi gelmeye hangi noktada karar vermiştir? Shang Chi bu tehlikeli kararin ardinda durabilecek güce sahip midir? Bu macerada babasi hakkinda hangi bilmediği gerçekleri öğrenecektir? Ona bu yolda yardim etmek isteyenler olduğu kadar, onun yolunu kesmek isteyenler de olacak midir? Shang Chi bu yolculuğunda ailesi hakkinda hangi sirlari öğrenecektir? Her şeyden daha da önemlisi Shang Chi bu tehlikeli ve kaçinilmaz karşilaşmadan sağ çikabilecek midir? ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/shang-chi-ve-on-halka-efsanesi-65118.webp",
+      "favoriSayisi": 90,
+      "tarih": 2021,
+      "yorum": [
+        "misafir: Etkileyici bir filmdi ",
+        "kullanıcı1: klasik marvel filmi klasik espriler cidden baydı infinity war dan sonra",
+        "misafirördek: gayet güzeldi"
+      ],
+      "src": "https://www.youtube.com/embed/8YjFbMbfXaQ",
+      "oyuncular": [
+        "Awkwafina",
+        "Ben Kingsley",
+        "Menger Zhang",
+        "Simu Liu",
+        "Tony Chiu-Wai Leung"
+      ]
+    },
+    {
+      "id": 4,
+      "kategoriId": [1],
+      "ismi": "No Hard Feelings",
+      "aciklama": "Büyü de Gel, baş kair komedi filmi olmaktan çok daha fazlasini sunuyor ve izleyene unutulmaz bir sinema deneyimi yaşatiyor. Hayatin içinden alinmiş hikayesi, benzersiz karakterleri ve başarili oyunculuklari ile Büyü de Gel, izlemekten keyif alacağiniz bir film. Eğer siz de aksiyon ve komediyi bir arada sevenlerdenseniz, bu film tam size göre. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/buyu-de-gel-39310.webp",
+      "favoriSayisi": 32,
+      "tarih": 2023,
+      "yorum": [
+        "misafir: çok saçma geldi bana, yani ne alaka amerika cidden böyle mi mesela",
+        "kullanıcı1: ailecek izlemeye uygun değil.."
+      ],
+      "src": "https://www.youtube.com/embed/m6RErsGPAIk",
+      "oyuncular": [
+        "Andrew Barth Feldman",
+        "Jennifer Lawrence",
+        "Laura Benanti",
+        "Matthew Broderick"
+      ]
+    },
+    {
+      "id": 5,
+      "kategoriId": [2, 5, 8],
+      "ismi": "The Hunger Games",
+      "aciklama": "Bir zamanlar Kuzey Amerika olarak bilinen bir yerin yikintilari içerisinde Panem ulusu yaşamaktadir.Başkent Capitolün etrafinda 12 bölge (mintika) bulunmaktadir. Capitol şiddetli ve acimasizdir ve mintikalar bir hat boyunca siralanmiştir. Onlarin her biri her yil yapilan Açlik oyunlarina katilmak zorundadir. Açlik oyunlarinin yapilma amaci, geçmişte yaşanan Karanlik Günlerde Capitole karşi düzenlenen ayaklanmalardir. Capitol, her sene Açlik Oyunlari ile otoritesini tüm mintikalara göstermekte, güç gösterisi yapmaktadir. Yarişma için her bir bölgeden yaşlari 12 ila 18 arasinda değişen birer erkek ve bir kiz çocuğu göndermek durumundadir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-aclik-oyunlari-the-hunger-games.webp",
+      "favoriSayisi": 70,
+      "tarih": 2012,
+      "yorum": [
+        "avcı: baştan başladım seriye çok güzeeeel, sinemada izlemiştim ama doyamadım kitaplarını da mutlaka okuyun",
+        "kulakmisafiri: efsane filmm",
+        "misafir123: kitabını okuyun.."
+      ],
+      "src": "https://www.youtube.com/embed/mfmrPu43DF8",
+      "oyuncular": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Stanley Tucci"
+      ]
+    },
+    {
+      "id": 6,
+      "kategoriId": [6, 2, 5],
+      "ismi": "Spider-Man: Across the Spider-Verse",
+      "aciklama": "Spider-Man:iğer büyük süper kahramanlarin yani sira farkli Spider-Man versiyonlariyla da karşilaşir. Onlarla bir araya gelirken, farkli evrenlerde yaşayan bu kahramanlar arasindaki benzerlikleri ve farkliliklari keşfeder. Bu, Milesin kendini daha da geliştirmesi ve gerçek potansiyelini ortaya çikarmasi için büyük bir firsat sunar. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/orumcek-adam-orumcek-evrenine-gecis-izle-8-77240.webp",
+      "favoriSayisi": 120,
+      "tarih": 2023,
+      "yorum": [
+        "misafir: çok iyi film be, cidden spider man animasyon olmalı filmler çok sıkıcı geliyor bana",
+        "kullanıcı: spideey",
+        "misafir77: en iyi animasyon aga",
+        "spidey: hemen ikincisi çıksııınn"
+      ],
+      "src": "https://www.youtube.com/embed/cqGjhVJWtEg",
+      "oyuncular": [
+        "Brian Tyree Henry",
+        "Hailee Steinfeld",
+        "Luna Lauren Velez",
+        "Shameik Moore"
+      ]
+    },
+    {
+      "id": 7,
+      "kategoriId": [6, 7],
+      "ismi": "Sing",
+      "aciklama": "İnsanlarin yaşadiği bir dünya gibi tamamen hayvanlarin yaşadini hayal edebiliyormusunuz işte şarkini söyle animasyonu tamda bunlarin gerçekleştiği bir film . Ayrica not olarak belirtmek istiyorum şarkini söyle animasyon filmini bildiğimiz minyonlarin yapimcilarinin yaptiğini grafiklerinin oldukça kaliteli olduğunu. Hemen hemen akliniza gelebilecek tüm hayvanlarin macera dolu anlari sizlerle. Şarkini Söyle - Sing 2016 animasyon izle ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-sarkini-soyle-sing.webp",
+      "favoriSayisi": 20,
+      "tarih": 2016,
+      "yorum": [
+        "misafir: çocuk filmi tam, ama şarkıları çok güzeldi. farklı bir çalışma olmuş",
+        "kullanıcı1: çok eğlenclii kardeşimle beraber izledik"
+      ],
+      "src": "https://www.youtube.com/embed/SH5N44b5Rrw",
+      "oyuncular": [
+        "Matthew McConaughey",
+        "Reese Witherspoon",
+        "Scarlett Johansson",
+        "Seth MacFarlane"
+      ]
+    },
+    {
+      "id": 8,
+      "kategoriId": [6],
+      "ismi": "The Super Mario Bros. Movie",
+      "aciklama": "Brooklyndeki tesiheyecan verici bir yolculuğa çikarirken, ayni zamanda kardeşlik, cesaret ve inanç gibi değerleri ön plana çikarmaktadir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/super-mario-kadesler-izle-3-38239.webp",
+      "favoriSayisi": 65,
+      "tarih": 2023,
+      "yorum": [
+        "misafir: mario da bi yaşlanmıyo he",
+        "kullanıcı1: güzelmiş canım eski mario oyunu çekti",
+        "kullanıcı4: güzel film de hikayesi garip geldi bana oyunların filmini yapmayı da kim bulduysa her oyunun filmi çıkıyor artk"
+      ],
+      "src": "https://www.youtube.com/embed/TnGl01FkMMo",
+      "oyuncular": [
+        "Anya Taylor-Joy",
+        "Charlie Day",
+        "Chris Pratt",
+        "Jack Black",
+        "Kevin Michael Richardson"
+      ]
+    },
+    {
+      "id": 9,
+      "kategoriId": [4, 8, 5],
+      "ismi": "The Magnificent Seven",
+      "aciklama": " Muhteşem Yedili filmi aksiyon macera ve western türünde bir filmdir. Bartholow Bogue sanayi işi ile uğraşmaktadir ve yaşadiği kasabayida o yönetmektedir. Kasabayi yağmalamak isteyen insanlardan kasabayi korumak için yine ayni şekilde yedi kanun kaçaği ile anlaşma yapacaklardir. Kimisi ödül avcisi kimisi kiralik katil . Muhteşem Yedili kasabayi para karşiliğinda korumak için gerekli çalişmalari kendince yaparlar gelecek olanlara hazir olarak beklerler. Fakat Muhteşem Yedili bu işi paranin dişinda amaçlar için yaptiğininda sonradan farkina varacaktir. Muhteşem Yedili - The Magnificent Seven 2016 filmi türkçe altyazili versiyonu olarak sitemizde yayinlanmiştir tabiki ilerleyen zamanlarda türkçe dublaj olarakda izleyebileceksiniz",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-muhtesem-yedili-the-magnificent-seven.webp",
+      "favoriSayisi": 37,
+      "tarih": 2016,
+      "yorum": [
+        "misafir: Efsane film kovboy filmlerini çok severim, eskiden babamla trt de çıkanları izlerdik o günler geldi aklıma",
+        "kullanıcı1: çok sıkıcıydı"
+      ],
+      "src": "https://www.youtube.com/embed/deSRpSn8Pyk",
+      "oyuncular": [
+        "Chris Pratt",
+        "Denzel Washington",
+        "Ethan Hawke",
+        "Vincent DOnofrio"
+      ]
+    },
+    {
+      "id": 10,
+      "kategoriId": [2, 5],
+      "ismi": "Lucy",
+      "aciklama": " Hemen hemen her ülkede uyuşturucu baronlari vardir ve satin alamayacaği polis yoktur.  Tayvanin başkenti olan Taipe şehrininde büyük uyuşturucu baronlari istediği polisi para gücü ile satin aliyor Lucy adinda bir kadin ve bunun gibi olan insanlari bu ticareti yapmaya zorluyor. Lucy vücudunun içine gizlenmiş olan uyuşturuculari taşidiği sirada yakalanacak ve darp edilecektir. Aldiği darbeler sonucu uyuşturucu paketi karninda yirtilacak ve kanina karişacaktir. O uyuşturucu Lucynin beynini %100 kullanmasina olanak sağlayacaktir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-lucy-filmi-full-izle-hd.webp",
+      "favoriSayisi": 80,
+      "tarih": 2014,
+      "yorum": [
+        "misafir: Beynim yandı bu ne, çok iyi bilim kurgu dövüş sahneleri çok iyi ama sonunu beğenmedim",
+        "kullanıcı1: maymuna bağladılar yine",
+        "misafir2: sıkıldım.."
+      ],
+      "src": "https://www.youtube.com/embed/6__zGnjSzgw",
+      "oyuncular": [
+        "Amr Waked",
+        "Min-sik Choi",
+        "Morgan Freeman",
+        "Scarlett Johansson"
+      ]
+    },
+    {
+      "id": 11,
+      "kategoriId": [3, 8],
+      "ismi": "Seven",
+      "aciklama": "Harper Grace (Dreama Walker) lisenin popüler kizidir. Okulun yeni öğrencisi Kaianin (Rachel Melvin) kasabaya gelişiyle Harperin yildizi sönmeye başlar. Kaia, Harperin yakin arkadaşinin sevgilisi Adami (Jared Keeso) baştan çikarmakta gecikmez. Yakişikli Fransizca öğretmeni Jack Powellin (Eric Close) da peşinden koşmaktadir. Yedi ölümcül günah Harperin etrafini sarmalamaya başlar... ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/9bf716ea56b74842ec8f363d27db2f36.webp",
+      "favoriSayisi": 130,
+      "tarih": 1995,
+      "yorum": [
+        "misafir: nerde eski filmler",
+        "kullanıcı1: whats in the box, bu sahnede ağladım ne drama ne efsane sahneymiş not: her yerde referans verilen yer",
+        "misafir izleyici: morgan freeman da bi yaşlanmıyo he"
+      ],
+      "src": "https://www.youtube.com/embed/znmZoVkCjpI",
+      "oyuncular": [
+        "Andrew Kevin Walker",
+        "Brad Pitt",
+        "Kevin Spacey",
+        "Morgan Freeman"
+      ]
+    },
+    {
+      "id": 12,
+      "kategoriId": [3, 5, 8],
+      "ismi": "Gone in Sixty Seconds",
+      "aciklama": "Memphis mükemmel bir araba hirsizidir. Alarmlar, kilitler artik onun için çocuk oyuncağidir. Çalmak istediği araç için 60 saniye yeterlidir. Filmin ismide oyuncunun bu yönünden gelmektedir. Memphis uzun süre önce suç işlerinden uzaklaşan biridir. Bu taki eski arkadaşinin beklenmeyen ziyaretinden öncesi için geçerlidir. Kardeşinin hayatini kurtarabilmesi için araba hirsizliğindan başka çaresi olmadiğinin farkindadir. Bütün herşey 1 günde 50 araba çalmaya kalmiştir. Memphis araçlara karşi ilgisi yüksek olan ve bir arabayi söküp tekrar yerine takmasini yapabilecek kadar bilgisi vardir. Fakat çalmayi başaramadiği bir araç çikacaktir.  ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-60-saniye-film-izle.webp",
+      "favoriSayisi": 25,
+      "tarih": 2000,
+      "yorum": [
+        "misafir: güzel polisiye",
+        "kullanıcı1: çok sıkıcıydı, bu adamın da bazı filmleri güzel oluyor bazen de bayıyor"
+      ],
+      "src": "https://www.youtube.com/embed/ap5RqRzjS6g",
+      "oyuncular": [
+        "Angelina Jolie",
+        "Giovanni Ribisi",
+        "Nicolas Cage",
+        "T.J. Cross"
+      ]
+    },
+    {
+      "id": 13,
+      "kategoriId": [4, 8],
+      "ismi": "Oppenheimer",
+      "aciklama": "J. Robert Oppenhkina varir varmaz, kendi rolleri ve sorumluluklari hakkinda derin bir iç hesaplaşmaya girdi. Atom bombasinin icadi ve kullanilmasi konusunda büyük bir vicdani yük taşiyan Oppenheimer, zamanla pişmanlik ve üzüntü duydu. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-oppenheimer-izle.webp",
+      "favoriSayisi": 110,
+      "tarih": 2023,
+      "yorum": [
+        "misafir: Etkileyici bir filmdi ",
+        "kullanıcı1: çok efsaneee",
+        "misafir2: biraz yavaş geldi bana",
+        "misafir4: nolan ne çekse izlerim, adam elini hangi projeye atsa proje şahlanıyor keşke türkiyede o efsane sinema salonlarından olsaydı"
+      ],
+      "src": "https://www.youtube.com/embed/uYPbbksJxIg",
+      "oyuncular": [
+        "Alden Ehrenreich",
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Robert Downey Jr."
+      ]
+    },
+    {
+      "id": 14,
+      "kategoriId": [7, 4, 8],
+      "ismi": "Les Miserables",
+      "aciklama": "Victor Hugonun ölümsüz yapiti ile ayni adi taşiyan ve ayni eserden sahneye uyarlanan üç Oscar ödülünün yaninda 83 film ödülünü de alip ayni zamanda da 175 film ödülü adayliği bulunan bu efsanevi filmde; Jean Valjean her ne kadar hapisten saliverilmiş olsa da her an ensesinde müfettiş Javertin nefesini duymaktadir. Ancak yeni ve özgür bir hayatin hayali ile tutuşan Jean asla yapmamasi gereken bir tehlikeyi göğüsler ve şartli tahliyeyi bozup yeni bir hayata doğru yol alir. Bu sirada zaten devrim sancilari çekmekte olan Fransa ünlü Haziran İsyani ve sonuçlari ile yüzleşmek üzeredir. Hikaye sadece mahkum değil ayni zamanda müfettiş ve zulüm gören halk arasindaki ince çizgiyi betimlemekte ve izleyiciye her iki tarafinda bakiş açisini net bir şekilde başari ile sunmaktadir. Zengin ve fakir halk arasindaki keskin ayrim, acima ve nefret, kaos ve şiddet ve tüm bu insani derin duygulara birebir tanik olacağiniz bu eserde herkese şimdiden iyi seyirler diliyoruz",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-sefiller-les-miserables.webp",
+      "favoriSayisi": 58,
+      "tarih": 2012,
+      "yorum": [
+        "misafir: Etkileyici bir filmdi normalde müzikal sevmem ama bunu beğendim.",
+        "kullanıcı1: çok sıkıcıydı",
+        "misafirördek: kitabını okuyun.."
+      ],
+      "src": "https://www.youtube.com/embed/YmvHzCLP6ug",
+      "oyuncular": [
+        "Amanda Seyfried",
+        "Anne Hathaway",
+        "Hugh Jackman",
+        "Russell Crowe"
+      ]
+    },
+    {
+      "id": 15,
+      "kategoriId": [8],
+      "ismi": "Noah",
+      "aciklama": " Nuh büyük tufan filmi, bilindiği gibi incilde geçen nuhun gemisi hikayesinin beyaz perdeye aktarilmiş halidir. Kötülük dünyayi hakimiyetine almiştir, nuh a büyük bir görev verilir. Gelecek büyük sel felaketinden canlilari korumakla görevlidir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-nuh-buyuk-tufan-noah-film-izle.webp",
+      "favoriSayisi": 40,
+      "tarih": 2014,
+      "yorum": [
+        "misafir: Etkileyici bir filmdi normalde müzikal sevmem ama bunu beğendim.",
+        "kullanıcı1: çok sıkıcıydı"
+      ],
+      "src": "https://www.youtube.com/embed/fdu10cX3pWA",
+      "oyuncular": [
+        "Anthony Hopkins",
+        "Emma Watson",
+        "Jennifer Connelly",
+        "Russell Crowe"
+      ]
+    },
+    {
+      "id": 16,
+      "kategoriId": [7],
+      "ismi": "Beauty and the Beast",
+      "aciklama": "Hikayenin birinde  çrkin tarafindan yakalanmiş. Bindiği at ordan kaçarak güzel kizin yanina kadar gelecek sonra o güzel kiz şatoya babasini kurtarmaya gidecektir. Fakat çirkinin tek kurali vardir bir kişinin kalmasi gerekecektir kiz kendini feda edecek ve babasinin kurtulmasini sağlayacaktir. ",
+      "resim": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-guzel-ve-cirkin-izle-hd-film-izle.webp",
+      "favoriSayisi": 40,
+      "tarih": 2017,
+      "yorum": [
+        "misafir: ah be çizgifilmini izlerdik bunun küçükken, şamdanlar eşyalar çok özenirdik",
+        "kullanıcı1: çizgi filmi daha güzeldi"
+      ],
+      "src": "https://www.youtube.com/embed/e3Nl_TCQXuw",
+      "oyuncular": ["Dan Stevens", "Emma Watson", "Josh Gad", "Luke Evans"]
+    },
+    {
+      "kategoriId": [2, 5],
+      "ismi": "Star Wars The Force Awaken",
+      "aciklama": "Yıllar sonra beyazperde' de boy gösteren yıllar önce bilimkurgu ve dünya dışı gezegen ve teknolojileri insanlara anlatmaya göstermeye çalışan bir filmdir. Filmde izleyicilerin yorumlarına göre eski tadı olmasada yine aldığı puana bakılırsa oldukça beğeni toplamış gibi görünüyor. Star Wars Bölüm 7 - Güç Uyanıyor 2015 türkçe dublaj film izleyebilir hatta full hd kalitesini tadabilirsiniz. İyiseyirler dilerim.",
+      "resim": "https://i.ebayimg.com/images/g/DLMAAOSw7HdjBhbo/s-l1200.webp",
+      "favoriSayisi": 0,
+      "tarih": "2017",
+      "yorum": [],
+      "src": "https://www.youtube.com/embed/sGbxmsDFVnE",
+      "oyuncular": [
+        "Daisy Ridley",
+        " Domhnall Gleeson",
+        " John Boyega",
+        " Oscar Isaac"
+      ],
+      "id": 17
+    },
+    {
+      "kategoriId": [4, 8],
+      "ismi": "Titanic",
+      "aciklama": "İngiltereden ABD ye gidecek olan o güne kadar yapılmış insan yapımı en büyük yüzen şey olan Titinic isimli gemi ile bir yoculuk yapılacaktır. Dünyanın en lüks,batmaz, sarsılmaz gibi sıfatları olan kalburüstü insanları taşımak amacıyla inşa edilmiş yüzen sarayın konusunun anlatıldığı film sinema tarihinin kuşkusuz en çok beğenilen filmidir. Umut içerisinde başlayan yolculuk 5. gününde adını yüzyıllar boyunca unutturmayacak bir felakete sahne olarak tarih yazacaktır. James Cameron‘ın yönetmenliğini yaptığı film sinema tarihinin en büyük bütçe ile çekilmiş filmiydi çekildiği dönemde. Hafızalardan silinmeyen sahnelerle dolu filmde bir okadar büyük bir aşk konu edilmiştir. Kate Winslet ve Leonardo Di Caprio‘nun başrollerde oynadığı filmde; Kete zengin bir ailenin asi kızı, Leonardo ise sokaklarda hayatını geçiren yarı serseri bir kişidir. Gemiye bileti ise kumar masasında kazanmıştır. Aşkın, tutkunun tavan yaptığı bir anda geminin bir buzdağına çarpmasıyla 11 dalda oskar getirecek bir film ortaya çıkmıştır.",
+      "resim": "https://www.originalfilmart.com/cdn/shop/products/titanic_1997_R2012_original_film_art_56f1fa52-8e89-4fb7-86d8-ccad834747c4.jpg?v=1633381608",
+      "favoriSayisi": 0,
+      "tarih": "1997",
+      "yorum": [],
+      "src": "https://www.youtube.com/embed/CHekzSiZjrY",
+      "oyuncular": [
+        "Billy Zane",
+        " Kate Winslet",
+        " Kathy Bates",
+        " Leonardo DiCaprio"
+      ],
+      "id": 18
+    }
+  ]
+}
